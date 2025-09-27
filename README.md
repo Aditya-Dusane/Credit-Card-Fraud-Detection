@@ -44,7 +44,7 @@ The final selected model (often Logistic Regression or a specialized Anomaly Det
 To explore the data analysis, balancing techniques, and model training:
 
 # Clone the repository
-git clone [YOUR_REPO_URL_HERE]
+git clone https://github.com/Aditya-Dusane/Credit-Card-Fraud-Detection.git
 
 # Install required libraries (Example list - update for your actual requirements.txt)
 pip install pandas numpy scikit-learn matplotlib jupyter imbalanced-learn
